@@ -16,23 +16,6 @@ Flutter + flutter_bloc + layered architecture, powered by https://api.tvmaze.com
   with SharedPreferences, no duplicates, survives restarts and works offline.
 - **Profile** – watchlist shortcut and data credit.
 
-## Screenshots
-
-Images live in `docs/screenshots/` (add your own captures with the file names below
-and they appear here).
-
-| Home | Search | Show details |
-|:---:|:---:|:---:|
-| ![Home](docs/screenshots/home.png) | ![Search](docs/screenshots/search.png) | ![Show details](docs/screenshots/details.png) |
-
-| Episodes (by season) | Cast | Watchlist |
-|:---:|:---:|:---:|
-| ![Episodes](docs/screenshots/episodes.png) | ![Cast](docs/screenshots/cast.png) | ![Watchlist](docs/screenshots/watchlist.png) |
-
-| Empty watchlist | Profile |
-|:---:|:---:|
-| ![Empty watchlist](docs/screenshots/watchlist_empty.png) | ![Profile](docs/screenshots/profile.png) |
-
 ### Capturing them
 With the app running on an emulator or a USB-connected Android device:
 
